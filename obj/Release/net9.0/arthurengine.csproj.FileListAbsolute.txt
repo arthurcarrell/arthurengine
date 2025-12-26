@@ -1,0 +1,12 @@
+/home/arthur/GitRepos/arthurengine/bin/Release/net9.0/arthurengine.deps.json
+/home/arthur/GitRepos/arthurengine/bin/Release/net9.0/arthurengine.dll
+/home/arthur/GitRepos/arthurengine/bin/Release/net9.0/arthurengine.pdb
+/home/arthur/GitRepos/arthurengine/obj/Release/net9.0/arthurengine.csproj.AssemblyReference.cache
+/home/arthur/GitRepos/arthurengine/obj/Release/net9.0/arthurengine.GeneratedMSBuildEditorConfig.editorconfig
+/home/arthur/GitRepos/arthurengine/obj/Release/net9.0/arthurengine.AssemblyInfoInputs.cache
+/home/arthur/GitRepos/arthurengine/obj/Release/net9.0/arthurengine.AssemblyInfo.cs
+/home/arthur/GitRepos/arthurengine/obj/Release/net9.0/arthurengine.csproj.CoreCompileInputs.cache
+/home/arthur/GitRepos/arthurengine/obj/Release/net9.0/arthurengine.dll
+/home/arthur/GitRepos/arthurengine/obj/Release/net9.0/refint/arthurengine.dll
+/home/arthur/GitRepos/arthurengine/obj/Release/net9.0/arthurengine.pdb
+/home/arthur/GitRepos/arthurengine/obj/Release/net9.0/ref/arthurengine.dll

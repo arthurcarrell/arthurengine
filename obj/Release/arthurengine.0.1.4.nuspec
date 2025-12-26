@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>arthurengine</id>
+    <version>0.1.4</version>
+    <authors>Arthur Carrell</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net9.0">
+        <dependency id="MonoGame.Framework.DesktopGL" version="3.8.4.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/home/arthur/GitRepos/arthurengine/bin/Release/net9.0/arthurengine.dll" target="lib/net9.0/arthurengine.dll" />
+  </files>
+</package>
